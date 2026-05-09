@@ -1,4 +1,3 @@
-.about .avatar ~ h2,
-.about .avatar ~ h2 + p {
+.about .description {
   white-space: pre-line;
 }

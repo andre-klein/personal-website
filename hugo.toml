@@ -22,7 +22,6 @@ noClasses = false
 unsafe = true
 
 [params]
-customCSS = ["css/bio.css"]
 author = "Andre Klein"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Andre Klein's personal website"
@@ -47,7 +46,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/bio.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 

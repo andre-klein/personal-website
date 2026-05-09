@@ -26,7 +26,7 @@ author = "Andre Klein"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Andre Klein's personal website"
 keywords = "blog,developer,personal"
-info = ["High-Performance Computing, ML/AI, Business Analytics @ GA Tech | Investor"]
+info = ["High-Performance Computing, ML/AI, Analytics @ GA Tech | Investor"]
 avatarURL = "images/SAM_2226.JPG"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

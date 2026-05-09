@@ -1,4 +1,4 @@
-baseURL = "http://www.andreklein.me"
+baseURL = "https://andreklein.me"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"

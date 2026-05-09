@@ -1,4 +1,4 @@
-.author-info {
+.about .avatar ~ h2,
+.about .avatar ~ h2 + p {
   white-space: pre-line;
-  font-family: inherit;
 }

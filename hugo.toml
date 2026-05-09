@@ -26,15 +26,15 @@ author = "Andre Klein"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Andre Klein's personal website"
 keywords = "blog,developer,personal"
-info = ["High-Performance Computing, Machine Learning @ GA Tech"]
-avatarURL = "images/avatar.jpg"
+info = ["High-Performance Computing, Machine Learning, Business Analytics @ GA Tech | Investor"]
+avatarURL = "images/P8190020.JPG"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2026
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
-rtl = false
+rtl = true
 # Specify light/dark colorscheme
 # Supported values:
 # "auto" (use preference set by browser)
@@ -192,19 +192,14 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Resume"
 weight = 2
-url = "posts/"
+url = "resume/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
 
 [languages.ar]
 languageName = "العربية"
@@ -233,8 +228,3 @@ url = "resume/"
 name = "المشاريع"
 weight = 3
 url = "projects/"
-
-[[languages.ar.menu.main]]
-name = "تواصل"
-weight = 5
-url = "contact/"

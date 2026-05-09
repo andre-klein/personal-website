@@ -194,7 +194,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 2
-url = "/resume/Andre_Klein_Resume.pdf"
+url = "/resume/Andre_Resume.pdf"
 
 [[languages.en.menu.main]]
 name = "Projects"
@@ -222,7 +222,7 @@ url = "about-ar/"
 [[languages.ar.menu.main]]
 name = "السيرة الذاتية"
 weight = 2
-url = "/resume/Andre_Klein_Resume.pdf"
+url = "/resume/Andre_Resume.pdf"
 
 [[languages.ar.menu.main]]
 name = "المشاريع"

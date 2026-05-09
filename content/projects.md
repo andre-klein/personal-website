@@ -6,7 +6,7 @@ aliases = ["projects"]
 author = "Andre Klein"
 +++
 
-A few projects and ventures:
+A few projects and ventures
 
 ## Khatib Group
 

@@ -1,5 +1,5 @@
 baseURL = "https://andreklein.me"
-title = "johndoe"
+title = "Andre Klein"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -26,8 +26,8 @@ author = "Andre Klein"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Andre Klein's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
-avatarURL = "images/avatar.jpg"
+info = ["Computing Systems, Machine Learning, Business Analytics @ GA Tech | Investor"]
+avatarURL = "images/P8190027.JPG"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019

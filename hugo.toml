@@ -209,7 +209,7 @@ languageDirection = "rtl"
 
 [languages.ar.params]
 author = "Andre Klein"
-info = ["مهندس برمجيات وعمليات تطوير"]
+info = ["الحوسبة عالية الأداء، والذكاء الاصطناعي، وتحليلات الأعمال في معهد جورجيا للتقنية | مستثمر"]
 description = "الموقع الشخصي لأندري كلاين"
 keywords = "السيرة الذاتية,مطور,شخصي"
 rtl = true

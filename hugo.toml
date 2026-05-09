@@ -206,32 +206,35 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.ar-sy]
-languageName = ":Ar:"
+[languages.ar]
+languageName = "العربية"
+languageCode = "ar"
 title = "Andre Klein"
+languageDirection = "rtl"
 
-[languages.ar-sy.params]
+[languages.ar.params]
 author = "Andre Klein"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+info = ["مهندس برمجيات وعمليات تطوير"]
+description = "الموقع الشخصي لأندري كلاين"
+keywords = "السيرة الذاتية,مطور,شخصي"
+rtl = true
 
-[[languages.ar-sy.menu.main]]
-name = "Sobre"
+[[languages.ar.menu.main]]
+name = "نبذة"
 weight = 1
 url = "about/"
 
-[[languages.ar-sy.menu.main]]
-name = "Blog"
+[[languages.ar.menu.main]]
+name = "السيرة الذاتية"
 weight = 2
-url = "posts/"
+url = "resume/"
 
-[[languages.ar-sy.menu.main]]
-name = "Projetos"
+[[languages.ar.menu.main]]
+name = "المشاريع"
 weight = 3
 url = "projects/"
 
-[[languages.ar-sy.menu.main]]
-name = "Contato"
+[[languages.ar.menu.main]]
+name = "تواصل"
 weight = 5
 url = "contact/"

@@ -6,8 +6,8 @@ aliases = ["about"]
 author = "Andre Klein"
 +++
 
-I’m Andre Klein, a software engineer focused on machine learning, high-performance computing, and analytics.
+Hello, I’m Andre Klein, a software engineer focused on machine learning, high-performance computing, and analytics.
 
-I recently completed two M.S. degrees from Georgia Tech in Computer Science and Business Analytics.
+I recently completed two M.S. degrees at Georgia Tech in Computer Science and Business Analytics.
 
 More to be added later...

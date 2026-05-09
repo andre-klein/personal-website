@@ -1,13 +1,15 @@
 +++
-title = "About"
-description = "About Andre Klein"
+title = "Projects"
+description = "Selected projects and ventures"
 date = "2026-05-09"
-aliases = ["about"]
+aliases = ["projects"]
 author = "Andre Klein"
 +++
 
-I’m Andre Klein, a software engineer focused on machine learning, high-performance computing, and analytics.
+A few projects and ventures:
 
-I recently completed two M.S. degrees from Georgia Tech in Computer Science and Business Analytics.
+## Khatib Group
 
-More to be added later...
+Co-founded [Khatib Group](https://www.linkedin.com/company/khatib-group), a real estate investment firm focused on acquisition, redevelopment, and long-term value creation in South Florida.
+
+More projects to be added later...

@@ -1,15 +1,15 @@
 +++
-title = "Projects"
-description = "Selected projects and ventures"
+title = "المشاريع"
+description = "مشاريع ومبادرات مختارة"
 date = "2026-05-09"
 aliases = ["projects"]
 author = "Andre Klein"
 +++
 
-A few projects and ventures:
+بعض المشاريع والمبادرات:
 
-## Khatib Group
+## مجموعة الخطيب
 
-Co-founded [Khatib Group](https://www.linkedin.com/company/khatib-group), a real estate investment firm focused on acquisition, redevelopment, and long-term value creation in South Florida.
+شاركتُ في تأسيس [Khatib Group](https://www.linkedin.com/company/khatib-group)، وهي شركة استثمار عقاري تركز على الاستحواذ، وإعادة التطوير، وبناء قيمة طويلة الأمد في جنوب فلوريدا.
 
-More projects to be added later...
+سيتم إضافة المزيد من المشاريع لاحقًا...

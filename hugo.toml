@@ -222,7 +222,7 @@ url = "about/"
 [[languages.ar.menu.main]]
 name = "السيرة الذاتية"
 weight = 2
-url = "resume/Andre_Resume.pdf"
+url = "resume/Andre_Resume.ar.pdf"
 
 [[languages.ar.menu.main]]
 name = "المشاريع"
